@@ -1,39 +1,280 @@
-\x12 { w v k l 8 m k } j Q \ 8 % 8 ? ) ! . / ) ( * ( 5 ( ! * . 5 ( ) ( , 5 ( ! )   5 ) ! . / ) ( * ( ( ! * . ? # 8 8 7 7 8 \x9EC0 \x8BBC 8 M M Q \ \xFF14 \x4F00 P g 0 8 } v n 6 M M Q \ \x12 t } l 8 h j w ` a Q H 8 % 8 ? ) . * 6 ) - ! 6 ) ! * 6 ) ? # 8 \x12 ~ m v { l q w v 8 q k N y t q | M M Q \ 0 m m q | 1 8 c \x12 8 8 { w v k l 8 j } \x7F } ` 8 % 8 7 F C ( 5 ! y 5 ~ E c   e 5 C ( 5 ! y 5 ~ E c , e 5 C ) 5 - E C ( 5 ! y 5 ~ E c +
-e 5 C   ! y z E C ( 5 ! y 5 ~ E c + e 5 C ( 5 ! y 5 ~ E c ) * e < 7 q # \x12 8 8 j } l m j v 8 j } \x7F } ` 6 l } k l 0 m m q | 1 # \x12 e \x12 ~ m v { l q w v 8 | } t y a * 0 l 1 8 c \x12 8 8 j } l m j v 8 v } o 8 H j w u q k } 0 j } k w t n } 8 % & 8 k } l L q u } w m l 0 j } k w t n } 4 8 l 1 1 # \x12 e \x12 y k a v { 8 ~ m v { l q w v 8 k y ~ } [ t w k } O K 0 o k 1 8 c \x12 8 8 l j a 8 c \x12 8 8 8 8 q ~ 8 0 o k 6 j }
-y | a K l y l } 8 % % % 8 O } z K w { s } l 6 W H ] V 8 d d 8 o k 6 j } y | a K l y l } 8 % % % 8 O } z K w { s } l 6 [ W V V ] [ L Q V _ 1 8 c \x12 8 8 8 8 8 8 o k 6 { t w k } 0 ) ( ( ( 4 8 ? { t w k } ? 1 # \x12 8 8 8 8 8 8 y o y q l 8 | } t y a * 0 ) ( ( 1 # \x12 8 8 8 8 e \x12 8 8 e 8 { y l { p 8 0 } 1 8 c \x12 8 8 8 8 { w v k w t } 6 } j j w j 0 ? k y ~ } [ t w k } O K 8 } j j w j " ? 4 8 } 1 # \x12 8 8 e \x12 e
-\x12 y k a v { 8 ~ m v { l q w v 8 p y v | t } L [ H W m l Z w m v | 0 j } u w l } K w { s } l 4 8 y | | j } k k J } u w l } 4 8 h w j l J } u w l } 4 8 j y o [ t q } v l \ y l y 4 8 o } z K w { s } l 4 8 n t } k k J } k h w v k } P } y | } j 4 8 t w \x7F 1 8 c \x12 8 8 y k a v { 8 ~ m v { l q w v 8 { w v v } { l Y v | O j q l } 0 y | | j } k k 4 8 h w j l 1 8 c \x12 8 8 8 8 { w v k l 8 l { h K w { s } l 8 %
-8 { w v v } { l 0 c 8 p w k l v y u } " 8 y | | j } k k 4 8 h w j l " 8 h w j l 8 e 1 # \x12 8 8 8 8 j } u w l } K w { s } l 6 n y t m } 8 % 8 l { h K w { s } l # \x12 8 8 8 8 t w \x7F 0 x { w v v } { l } | 8 l w 8 < c y | | j } k k e " < c h w j l e x 1 # \x12 8 8 8 8 { w v k l 8 o j q l } j 8 % 8 l { h K w { s } l 6 o j q l y z t } 6 \x7F } l O j q l } j 0 1 # \x12 8 8 8 8 y o y q l 8 o j q l } j 6 o j q l } 0 j
-y o [ t q } v l \ y l y 1 # \x12 8 8 8 8 o j q l } j 6 j } t } y k } T w { s 0 1 # \x12 8 8 8 8 j } l m j v 8 l { h K w { s } l # \x12 8 8 e \x12 8 8 { w v k l 8 } y j t a \ y l y P } y | } j 8 % 8 v } o 8 M q v l   Y j j y a 0 C ( E 1 # \x12 8 8 q ~ 8 0 o } z K w { s } l 6 j } y | a K l y l } 8 % % % 8 O } z K w { s } l 6 W H ] V 1 8 c \x12 8 8 8 8 o } z K w { s } l 6 k } v | 0 n t } k k J } k h w v k } P } y | }
-j 1 # \x12 8 8 8 8 o } z K w { s } l 6 k } v | 0 } y j t a \ y l y P } y | } j 1 # \x12 8 8 e \x12 8 8 t } l 8 l { h K w { s } l # \x12 8 8 l j a 8 c \x12 8 8 8 8 l { h K w { s } l 8 % 8 y o y q l 8 { w v v } { l Y v | O j q l } 0 y | | j } k k J } u w l } 4 8 h w j l J } u w l } 1 # \x12 8 8 e 8 { y l { p 8 0 } 1 8 c \x12 8 8 8 8 t w \x7F 0 x l { h K w { s } l 8 { w v v } { l Y v | O j q l } 8 } j j w j " 8 < c } e x 1
-# \x12 8 8 8 8 q ~ 8 0 o } z K w { s } l 6 j } y | a K l y l } 8 % % % 8 O } z K w { s } l 6 W H ] V 1 8 c \x12 8 8 8 8 8 8 o } z K w { s } l 6 k } v | 0 v } o 8 M q v l   Y j j y a 0 C ) E 1 1 # \x12 8 8 8 8 8 8 o } z K w { s } l 6 { t w k } 0 ) ( ) ) 4 8 ? l { h K w { s } l 8 { w v v } { l Y v | O j q l } 8 } j j w j ? 1 # \x12 8 8 8 8 e \x12 8 8 8 8 j } l m j v # \x12 8 8 e \x12 8 8 { w v k l 8 j } y | } j 8 % 8 l
-{ h K w { s } l 6 j } y | y z t } 6 \x7F } l J } y | } j 0 1 # \x12 8 8 { w v k l 8 o j q l } j 8 % 8 o } z K w { s } l 6 j } y | a K l y l } 8 % % % 8 O } z K w { s } l 6 W H ] V 8 ' 8 o } z K w { s } l 8 " 8 v m t t # \x12 8 8 l j a 8 c \x12 8 8 8 8 o p q t } 8 0 l j m } 1 8 c \x12 8 8 8 8 8 8 { w v k l 8 c 8 | w v } 4 8 n y t m } 8 e 8 % 8 y o y q l 8 j } y | } j 6 j } y | 0 1 # \x12 8 8 8 8 8 8 q ~ 8 0 | w v }
-1 8 z j } y s # \x12 8 8 8 8 8 8 q ~ 8 0 o j q l } j 8 > > 8 o } z K w { s } l 6 j } y | a K l y l } 8 % % % 8 O } z K w { s } l 6 W H ] V 1 8 c \x12 8 8 8 8 8 8 8 8 o j q l } j 6 k } v | 0 n y t m } 1 # \x12 8 8 8 8 8 8 e 8 } t k } 8 c \x12 8 8 8 8 8 8 8 8 t w \x7F 0 ? o } z K w { s } l 8 q k 8 v w l 8 j } y | a ? 1 # \x12 8 8 8 8 8 8 8 8 z j } y s # \x12 8 8 8 8 8 8 e \x12 8 8 8 8 e \x12 8 8 e 8 { y l { p 8 0 } 1 8 c \x12 8
-8 8 8 t w \x7F 0 x l { h K w { s } l 8 j } y | } j 8 } j j w j " 8 < c } e x 1 # \x12 8 8 e 8 ~ q v y t t a 8 c \x12 8 8 8 8 j } y | } j 6 j } t } y k } T w { s 0 1 # \x12 8 8 8 8 y o y q l 8 k y ~ } [ t w k } O K 0 o } z K w { s } l 1 # \x12 8 8 8 8 l j a 8 c \x12 8 8 8 8 8 8 l { h K w { s } l 6 { t w k } 0 1 # \x12 8 8 8 8 e 8 { y l { p 8 0 } 1 8 c \x12 8 8 8 8 8 8 t w \x7F 0 ? l { h K w { s } l 8 { t w k } 8 } j j w j "
-? 4 8 } 1 # \x12 8 8 8 8 e \x12 8 8 e \x12 \x12 8 8 t w \x7F 0 x l { h K w { s } l 8 { w v v } { l q w v 8 } v | x 1 # \x12 e \x12 ~ m v { l q w v 8 n t } k k J } k h w v k } P } y | } j 0 q k P } y | 1 8 c \x12 8 8 { w v k l 8 y j j 8 % 8 v } o 8 M q v l   Y j j y a 0 * ( 1 # \x12 8 8 { w v k l 8 n q } o 8 % 8 v } o 8 \ y l y N q } o 0 y j j 6 z m ~ ~ } j 1 # \x12 8 8 n q } o 6 k } l M q v l   0 ( 4 8 ( 1 # \x12 8 8 n q } o 6 k
-} l M q v l   0 ) 4 8 q k P } y | 8 ' 8 ( 8 " 8 ) 1 # \x12 8 8 n q } o 6 k } l M q v l ) . 0 * 4 8 ( 4 8 l j m } 1 # \x12 8 8 n q } o 6 k } l M q v l ) . 0 , 4 8 ( 4 8 l j m } 1 # \x12 8 8 n q } o 6 k } l M q v l ) . 0 . 4 8 ( 4 8 l j m } 1 # \x12 8 8 n q } o 6 k } l M q v l ) . 0   4 8 ( 4 8 l j m } 1 # \x12 8 8 n q } o 6 k } l M q v l ) . 0 ) ( 4 8 ( 4 8 l j m } 1 # \x12 8 8 n q } o 6 k } l M q v l ) . 0 ) * 4 8
-( 4 8 l j m } 1 # \x12 8 8 n q } o 6 k } l M q v l + * 0 ) , 4 8 \ y l } 6 v w o 0 1 8 7 8 ) ( ( ( 8 d 8 ( 4 8 l j m } 1 # \x12 8 8 j } l m j v 8 y j j # \x12 e \x12 y k a v { 8 ~ m v { l q w v 8 p y v | t } L [ H Q v Z w m v | 0 j } u w l } K w { s } l 4 8 o } z K w { s } l 4 8 y | | j } k k J } u w l } 4 8 h w j l J } u w l } 4 8 t w \x7F 1 8 c \x12 8 8 { w v k l 8 n t } k k J } k h w v k } P } y | } j Z a l } k
-8 % 8 n t } k k J } k h w v k } P } y | } j 0 l j m } 1 # \x12 8 8 t w \x7F 0 x p y v | t } L [ H Q v Z w m v | " 8 < c y | | j } k k J } u w l } e " < c h w j l J } u w l } e x 1 # \x12 8 8 { w v k l 8 o j q l } j 8 % 8 j } u w l } K w { s } l 6 n y t m } 6 o j q l y z t } 6 \x7F } l O j q l } j 0 1 # \x12 8 8 t } l 8 j } u w l } K w { s } l [ t w k } | 8 % 8 ~ y t k } # \x12 8 8 t } l 8 o } z K w { s } l [ t w k
-} | 8 % 8 ~ y t k } # \x12 8 8 { w v k l 8 w v O k U } k k y \x7F } 8 % 8 0 c 8 | y l y 8 e 1 8 % & 8 c \x12 8 8 8 8 q ~ 8 0 j } u w l } K w { s } l [ t w k } | 8 d d 8 o } z K w { s } l [ t w k } | 1 8 j } l m j v # \x12 8 8 8 8 q ~ 8 0 j } u w l } K w { s } l 6 n y t m } 6 j } y | a K l y l } 8 % % % 8 ? { t w k } | ? 1 8 c \x12 8 8 8 8 8 8 j } u w l } K w { s } l [ t w k } | 8 % 8 l j m } # \x12 8 8 8 8 8 8 k y
-~ } [ t w k } O K 0 o } z K w { s } l 1 # \x12 8 8 8 8 8 8 j } l m j v # \x12 8 8 8 8 e \x12 8 8 8 8 o j q l } j 6 o j q l } 0 | y l y 1 6 { y l { p 0 0 } 1 8 % & 8 c \x12 8 8 8 8 8 8 t w \x7F 0 ? o j q l } j 6 o j q l } 8 } j j w j " ? 4 8 } 1 # \x12 8 8 8 8 8 8 j } u w l } K w { s } l [ t w k } | 8 % 8 l j m } # \x12 8 8 8 8 8 8 k y ~ } [ t w k } O K 0 o } z K w { s } l 1 # \x12 8 8 8 8 e 1 # \x12 8 8 e # \x12 8 8 { w v k l
-8 w v O k [ t w k } 8 % 8 0 1 8 % & 8 c \x12 8 8 8 8 o } z K w { s } l [ t w k } | 8 % 8 l j m } # \x12 8 8 8 8 j } u w l } K w { s } l 6 n y t m } 6 { t w k } 0 1 # \x12 8 8 e # \x12 8 8 { w v k l 8 w v O k ] j j w j 8 % 8 0 1 8 % & 8 c \x12 8 8 8 8 o } z K w { s } l [ t w k } | 8 % 8 l j m } # \x12 8 8 8 8 j } u w l } K w { s } l 6 n y t m } 6 { t w k } 0 1 # \x12 8 8 e # \x12 8 8 o } z K w { s } l 6 y | | ] n } v l T
-q k l } v } j 0 ? u } k k y \x7F } ? 4 8 w v O k U } k k y \x7F } 1 # \x12 8 8 o } z K w { s } l 6 y | | ] n } v l T q k l } v } j 0 ? { t w k } ? 4 8 w v O k [ t w k } 1 # \x12 8 8 o } z K w { s } l 6 y | | ] n } v l T q k l } v } j 0 ? } j j w j ? 4 8 w v O k ] j j w j 1 # \x12 8 8 y o y q l 8 p y v | t } L [ H W m l Z w m v | 0 j } u w l } K w { s } l 4 8 y | | j } k k J } u w l } 4 8 h w j l J } u w l } 4 8
-v } o 8 M q v l   Y j j y a 0 1 4 8 o } z K w { s } l 4 8 n t } k k J } k h w v k } P } y | } j Z a l } k 4 8 t w \x7F 1 # \x12 e \x12 y k a v { 8 ~ m v { l q w v 8 p y v | t } O } z K w { s } l 0 { t q } v l O } z K w { s } l 4 8 k } j n } j O } z K w { s } l 4 8 j } i m } k l 4 8 } v n 4 8 t w \x7F 1 8 c \x12 8 8 t } l 8 n t } k k Z m ~ ~ } j 8 % 8 v } o 8 M q v l   Y j j y a 0 ( 1 # \x12 8 8 t } l 8 j } u w l }
-K w { s } l 8 % 8 c 8 n y t m } " 8 v m t t 8 e # \x12 8 8 t } l 8 y | | j } k k J } u w l } 8 % 8 ? ? # \x12 8 8 t } l 8 h w j l J } u w l } 8 % 8 ( # \x12 8 8 t } l 8 p y k J } { } q n } | 8 % 8 ~ y t k } # \x12 8 8 k } j n } j O } z K w { s } l 6 y { { } h l 0 1 # \x12 8 8 { w v k l 8 w v O k U } k k y \x7F } 8 % 8 y k a v { 8 0 c 8 | y l y 8 e 1 8 % & 8 c \x12 8 8 8 8 q ~ 8 0 9 p y k J } { } q n } | 1 8 c \x12 8 8 8
-8 8 8 p y k J } { } q n } | 8 % 8 l j m } # \x12 8 8 8 8 8 8 n t } k k Z m ~ ~ } j 8 % 8 v } o 8 M q v l   Y j j y a 0 | y l y 1 # \x12 8 8 8 8 8 8 l j a 8 c \x12 8 8 8 8 8 8 8 8 { w v k l 8 c 8 p y k ] j j w j 4 8 y | | j } k k 4 8 h w j l 4 8 q k M | h 4 8 j y o [ t q } v l \ y l y 4 8 n t } k k J } k h w v k } 8 e 8 % 8 y o y q l 8 h j w { } k k N t } k k P } y | } j 0 n t } k k Z m ~ ~ } j 4 8 j } i m
-} k l 4 8 } v n 4 8 t w \x7F 1 # \x12 8 8 8 8 8 8 8 8 q ~ 8 0 p y k ] j j w j 1 8 c \x12 8 8 8 8 8 8 8 8 8 8 t w \x7F 0 ? p y k ] j j w j ? 1 # \x12 8 8 8 8 8 8 8 8 8 8 y o y q l 8 k y ~ } [ t w k } O K 0 k } j n } j O } z K w { s } l 1 # \x12 8 8 8 8 8 8 8 8 8 8 j } l m j v # \x12 8 8 8 8 8 8 8 8 e \x12 8 8 8 8 8 8 8 8 y | | j } k k J } u w l } 8 % 8 y | | j } k k # \x12 8 8 8 8 8 8 8 8 h w j l J } u w l } 8 % 8 h w j l #
-\x12 8 8 8 8 8 8 8 8 q ~ 8 0 q k M | h 1 8 c \x12 8 8 8 8 8 8 8 8 8 8 t w \x7F 0 ? M \ H 8 j } i m } k l 4 8 p y v | t q v \x7F 8 y k 8 \ V K ? 1 # \x12 8 8 8 8 8 8 8 8 8 8 k } j n } j O } z K w { s } l 6 k } v | 0 n t } k k J } k h w v k } 1 # \x12 8 8 8 8 8 8 8 8 e 8 } t k } 8 c \x12 8 8 8 8 8 8 8 8 8 8 y o y q l 8 p y v | t } L [ H Q v Z w m v | 0 j } u w l } K w { s } l 4 8 k } j n } j O } z K w { s } l 4 8 y | |
-j } k k J } u w l } 4 8 h w j l J } u w l } 4 8 t w \x7F 1 # \x12 8 8 8 8 8 8 8 8 e \x12 8 8 8 8 8 8 e 8 { y l { p 8 0 } 1 8 c \x12 8 8 8 8 8 8 8 8 t w \x7F 0 ? h j w { } k k N t } k k P } y | } j 8 } j j w j " ? 4 8 } 1 # \x12 8 8 8 8 8 8 8 8 y o y q l 8 k y ~ } [ t w k } O K 0 k } j n } j O } z K w { s } l 1 # \x12 8 8 8 8 8 8 e \x12 8 8 8 8 e 8 } t k } 8 c \x12 8 8 8 8 8 8 q ~ 8 0 j } u w l } K w { s } l 6 n y t m } 8 >
-> 8 j } u w l } K w { s } l 6 n y t m } 6 j } y | a K l y l } 8 % % % 8 ? w h } v ? 1 8 c \x12 8 8 8 8 8 8 8 8 { w v k l 8 o j q l } j 8 % 8 j } u w l } K w { s } l 6 n y t m } 6 o j q l y z t } 6 \x7F } l O j q l } j 0 1 # \x12 8 8 8 8 8 8 8 8 o j q l } j 6 o j q l } 0 | y l y 1 6 { y l { p 0 } 8 % & 8 t w \x7F 0 ? ~ w j o y j | 8 } j j w j " ? 4 8 } 1 1 # \x12 8 8 8 8 8 8 e \x12 8 8 8 8 e \x12 8 8 e # \x12 8 8 k } j n
-} j O } z K w { s } l 6 y | | ] n } v l T q k l } v } j 0 ? u } k k y \x7F } ? 4 8 w v O k U } k k y \x7F } 1 # \x12 e \x12 y k a v { 8 ~ m v { l q w v 8 h j w { } k k N t } k k P } y | } j 0 n t } k k Z m ~ ~ } j 4 8 j } i m } k l 4 8 } v n 4 8 t w \x7F 1 8 c \x12 8 8 { w v k l 8 n } j k q w v 8 % 8 n t } k k Z m ~ ~ } j C ( E # \x12 8 8 q ~ 8 0 n } j k q w v 8 9 % % 8 ( 1 8 l p j w o 8 v } o 8 ] j j w j 0 ? V w l 8
-n t } k k ? 1 # \x12 8 8 { w v k l 8 m k } j Q \ 8 % 8 } v n 6 M M Q \ 8 d d 8 m k } j Q \ # \x12 8 8 q ~ 8 0 9 q k N y t q | M M Q \ 0 m k } j Q \ 1 1 8 l p j w o 8 v } o 8 ] j j w j 0 ? Q v n y t q | 8 M M Q \ ? 1 # \x12 8 8 q ~ 8 0 n t } k k Z m ~ ~ } j 6 k t q { } 0 ) 4 8 + / 1 6 l w K l j q v \x7F 0 1 8 9 % % 8 m k } j Q \ 6 j } h t y { } 0 7 5 7 \x7F 4 8 ? ? 1 1 8 c \x12 8 8 8 8 l p j w o 8 v } o 8 ] j j w j
-0 ? Q v n y t q | 8 m k } j Q \ ? 1 # \x12 8 8 e \x12 8 8 { w v k l 8 u } l y | y l y Z m ~ ~ } j 8 % 8 n t } k k Z m ~ ~ } j 6 k t q { } 0 + / 1 # \x12 8 8 { w v k l 8 u } l y | y l y N q } o 8 % 8 v } o 8 \ y l y N q } o 0 u } l y | y l y Z m ~ ~ } j 6 z m ~ ~ } j 1 # \x12 8 8 t } l 8 u } l y | y l y Q v | } ` 8 % 8 ( # \x12 8 8 { w v k l 8 { u | 8 % 8 u } l y | y l y N q } o 6 \x7F } l M q v l   0 u } l y | y l
-y Q v | } ` 3 3 1 # \x12 8 8 { w v k l 8 h w j l 8 % 8 u } l y | y l y N q } o 6 \x7F } l M q v l ) . 0 u } l y | y l y Q v | } ` 4 8 l j m } 1 # 8 u } l y | y l y Q v | } ` 8 3 % 8 * # \x12 8 8 t } l 8 y | | j } k k T } v \x7F l p 8 % 8 ( # \x12 8 8 t } l 8 y | | j } k k 8 % 8 ? ? # \x12 8 8 { w v k l 8 y l a h 8 % 8 u } l y | y l y N q } o 6 \x7F } l M q v l   0 u } l y | y l y Q v | } ` 3 3 1 # \x12 8 8 k o q l { p 8
-0 y l a h 1 8 c \x12 8 8 8 8 { y k } 8 ) " 8 \x12 8 8 8 8 8 8 y | | j } k k 8 % 8 x < c u } l y | y l y N q } o 6 \x7F } l M q v l   0 u } l y | y l y Q v | } ` 1 8 & & 8 ( e 6 < c u } l y | y l y N q } o 6 \x7F } l M q v l   0 u } l y | y l y Q v | } ` 8 3 8 ) 1 8 & & 8 ( e 6 < c u } l y | y l y N q } o 6 \x7F } l M q v l   0 u } l y | y l y Q v | } ` 8 3 8 * 1 8 & & 8 ( e 6 < c u } l y | y l y N q } o 6 \x7F } l
-M q v l   0 u } l y | y l y Q v | } ` 8 3 8 + 1 8 & & 8 ( e x # \x12 8 8 8 8 8 8 u } l y | y l y Q v | } ` 8 3 % 8 , # \x12 8 8 8 8 8 8 z j } y s # \x12 8 8 8 8 { y k } 8 * " 8 \x12 8 8 8 8 8 8 y | | j } k k T } v \x7F l p 8 % 8 u } l y | y l y N q } o 6 \x7F } l M q v l ) . 0 u } l y | y l y Q v | } ` 4 8 l j m } 1 # \x12 8 8 8 8 8 8 u } l y | y l y Q v | } ` 8 3 % 8 * # \x12 8 8 8 8 8 8 { w v k l 8 l } u h Z a l } k 8
-% 8 v } o 8 M q v l   Y j j y a 0 u } l y | y l y Z m ~ ~ } j 6 k t q { } 0 u } l y | y l y Q v | } ` 4 8 u } l y | y l y Q v | } ` 8 3 8 y | | j } k k T } v \x7F l p 1 1 # \x12 8 8 8 8 8 8 y | | j } k k 8 % 8 v } o 8 L } ` l \ } { w | } j 0 1 6 | } { w | } 0 l } u h Z a l } k 1 # \x12 8 8 8 8 8 8 u } l y | y l y Q v | } ` 8 3 % 8 y | | j } k k T } v \x7F l p # \x12 8 8 8 8 8 8 z j } y s # \x12 8 8 8 8 { y k } 8 +
-" \x12 8 8 8 8 8 8 z j } y s # \x12 8 8 8 8 | } ~ y m t l " \x12 8 8 8 8 8 8 l p j w o 8 v } o 8 ] j j w j 0 ? Q v n y t q | 8 y l a h ? 1 # \x12 8 8 e \x12 8 8 q ~ 8 0 y | | j } k k 6 k l y j l k O q l p 0 ? { ~ 6 ? 1 1 8 c \x12 8 8 8 8 y | | j } k k 8 % 8 } v n 6 H J W @ A Q H 8 d d 8 h j w ` a Q H # \x12 8 8 e \x12 8 8 { w v k l 8 j y o [ t q } v l \ y l y 8 % 8 n t } k k Z m ~ ~ } j 6 k t q { } 0 u } l y | y l y Q v
-| } ` 1 # \x12 8 8 { w v k l 8 q k M | h 8 % 8 { u | 8 % % % 8 * # 8 \x12 8 8 t w \x7F 0 x y | | j } k k " 8 < c y | | j } k k e 4 8 h w j l " 8 < c h w j l e 4 8 q k M | h " 8 < c q k M | h e x 1 # \x12 8 8 { w v k l 8 n t } k k J } k h w v k } 8 % 8 n t } k k J } k h w v k } P } y | } j 0 ~ y t k } 1 # \x12 8 8 j } l m j v 8 c 8 p y k ] j j w j " 8 ~ y t k } 4 8 y | | j } k k 4 8 h w j l 4 8 q k M | h 4 8 j y
-o [ t q } v l \ y l y 4 8 n t } k k J } k h w v k } 8 e # \x12 e \x12 } ` h w j l 8 | } ~ y m t l 8 c \x12 8 8 y k a v { 8 ~ } l { p 0 j } i m } k l 4 8 } v n 4 8 { l ` 1 8 c \x12 8 8 8 8 { w v k l 8 t w \x7F 8 % 8 0 6 6 6 y j \x7F k 1 8 % & 8 { w v k w t } 6 t w \x7F 0 ? C n t } k k E ? 4 8 6 6 6 y j \x7F k 1 # 8 \x12 8 8 8 8 { w v k l 8 m k } j Q \ 8 % 8 } v n 6 M M Q \ 8 d d 8 m k } j Q \ # \x12 8 8 8 8 { w v k l 8 h j w `
-a Q H 8 % 8 } v n 6 H J W @ A Q H 8 d d 8 h j w ` a Q H # \x12 8 8 8 8 q ~ 8 0 9 q k N y t q | M M Q \ 0 m k } j Q \ 1 1 8 c \x12 8 8 8 8 8 8 j } l m j v 8 v } o 8 J } k h w v k } 0 ? Q v n y t q | 8 M M Q \ 8 { w v ~ q \x7F ? 4 8 c 8 k l y l m k " 8 - ( ( 8 e 1 # \x12 8 8 8 8 e \x12 8 8 8 8 { w v k l 8 o } z K w { s } l H y q j 8 % 8 v } o 8 O } z K w { s } l H y q j 0 1 # \x12 8 8 8 8 { w v k l 8 C { t q } v l 4
-8 k } j n } j E 8 % 8 W z r } { l 6 n y t m } k 0 o } z K w { s } l H y q j 1 # \x12 8 8 8 8 p y v | t } O } z K w { s } l 0 { t q } v l 4 8 k } j n } j 4 8 j } i m } k l 4 8 } v n 4 8 t w \x7F 1 6 { y l { p 0 } 8 % & 8 c \x12 8 8 8 8 8 8 t w \x7F 0 ? p y v | t } O } z K w { s } l 8 } j j w j " ? 4 8 } 1 # \x12 8 8 8 8 8 8 k y ~ } [ t w k } O K 0 k } j n } j 1 # \x12 8 8 8 8 e 1 # \x12 8 8 8 8 j } l m j v 8 v } o 8 J
-} k h w v k } 0 v m t t 4 8 c \x12 8 8 8 8 8 8 k l y l m k " 8 ) ( ) 4 \x12 8 8 8 8 8 8 o } z K w { s } l " 8 { t q } v l 4 \x12 8 8 8 8 e 1 # \x12 8 8 e 4 \x12 e # \x12
+// VLESS Proxy for Cloudflare Workers
+// 基于 https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js
+// 修改：添加环境变量支持，简化日志。
+
+const userID = '19671020-0926-0104-0918-196710200926';  // 默认 UUID，优先使用 env.UUID
+let proxyIP = '162.159.192.1';   // 默认 proxyIP，优先使用 env.PROXYIP
+
+// UUID 验证函数
+function isValidUUID(uuid) {
+  const regex = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+  return regex.test(uuid);
+}
+
+// 延迟函数
+function delay2(t) {
+  return new Promise(resolve => setTimeout(resolve, t));
+}
+
+// 关闭 WebSocket 安全函数
+async function safeCloseWS(ws) {
+  try {
+    if (ws.readyState === WebSocket.OPEN || ws.readyState === WebSocket.CONNECTING) {
+      ws.close(1000, 'close');
+      await delay2(100);
+    }
+  } catch (e) {
+    console.error('safeCloseWS error:', e);
+  }
+}
+
+// 处理 TCP 出站连接
+async function handleTCPOutBound(remoteSocket, addressRemote, portRemote, rawClientData, webSocket, vlessResponseHeader, log) {
+  async function connectAndWrite(address, port) {
+    const tcpSocket = connect({ hostname: address, port: port });
+    remoteSocket.value = tcpSocket;
+    log(`connected to ${address}:${port}`);
+    const writer = tcpSocket.writable.getWriter();
+    await writer.write(rawClientData);
+    writer.releaseLock();
+    return tcpSocket;
+  }
+
+  const earlyDataHeader = new Uint8Array([0]);
+  if (webSocket.readyState === WebSocket.OPEN) {
+    webSocket.send(vlessResponseHeader);
+    webSocket.send(earlyDataHeader);
+  }
+
+  let tcpSocket;
+  try {
+    tcpSocket = await connectAndWrite(addressRemote, portRemote);
+  } catch (e) {
+    log(`tcpSocket connectAndWrite error: ${e}`);
+    if (webSocket.readyState === WebSocket.OPEN) {
+      webSocket.send(new Uint8Array([1]));
+      webSocket.close(1011, 'tcpSocket connectAndWrite error');
+    }
+    return;
+  }
+
+  const reader = tcpSocket.readable.getReader();
+  const writer = webSocket.readyState === WebSocket.OPEN ? webSocket : null;
+
+  try {
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      if (writer && webSocket.readyState === WebSocket.OPEN) {
+        writer.send(value);
+      } else {
+        log('webSocket is not ready');
+        break;
+      }
+    }
+  } catch (e) {
+    log(`tcpSocket reader error: ${e}`);
+  } finally {
+    reader.releaseLock();
+    await safeCloseWS(webSocket);
+    try {
+      tcpSocket.close();
+    } catch (e) {
+      log('tcpSocket close error:', e);
+    }
+  }
+
+  log(`tcpSocket connection end`);
+}
+
+// VLESS 响应头部生成
+function vlessResponseHeader(isHead) {
+  const arr = new Uint8Array(20);
+  const view = new DataView(arr.buffer);
+  view.setUint8(0, 0);
+  view.setUint8(1, isHead ? 0 : 1);
+  view.setUint16(2, 0, true);
+  view.setUint16(4, 0, true);
+  view.setUint16(6, 0, true);
+  view.setUint16(8, 0, true);
+  view.setUint16(10, 0, true);
+  view.setUint16(12, 0, true);
+  view.setUint32(14, Date.now() / 1000 | 0, true);
+  return arr;
+}
+
+// 处理 TCP 入站
+async function handleTCPInBound(remoteSocket, webSocket, addressRemote, portRemote, log) {
+  const vlessResponseHeaderBytes = vlessResponseHeader(true);
+  log(`handleTCPInBound: ${addressRemote}:${portRemote}`);
+
+  const writer = remoteSocket.value.writable.getWriter();
+  let remoteSocketClosed = false;
+  let webSocketClosed = false;
+
+  const onWsMessage = ({ data }) => {
+    if (remoteSocketClosed || webSocketClosed) return;
+    if (remoteSocket.value.readyState === 'closed') {
+      remoteSocketClosed = true;
+      safeCloseWS(webSocket);
+      return;
+    }
+    writer.write(data).catch((e) => {
+      log('writer.write error:', e);
+      remoteSocketClosed = true;
+      safeCloseWS(webSocket);
+    });
+  };
+  const onWsClose = () => {
+    webSocketClosed = true;
+    remoteSocket.value.close();
+  };
+  const onWsError = () => {
+    webSocketClosed = true;
+    remoteSocket.value.close();
+  };
+  webSocket.addEventListener('message', onWsMessage);
+  webSocket.addEventListener('close', onWsClose);
+  webSocket.addEventListener('error', onWsError);
+
+  await handleTCPOutBound(remoteSocket, addressRemote, portRemote, new Uint8Array(), webSocket, vlessResponseHeaderBytes, log);
+}
+
+// 处理 WebSocket
+async function handleWebSocket(clientWebSocket, serverWebSocket, request, env, log) {
+  let vlessBuffer = new Uint8Array(0);
+  let remoteSocket = { value: null };
+  let addressRemote = '';
+  let portRemote = 0;
+  let hasReceived = false;
+
+  serverWebSocket.accept();
+
+  const onWsMessage = async ({ data }) => {
+    if (!hasReceived) {
+      hasReceived = true;
+      vlessBuffer = new Uint8Array(data);
+      try {
+        const { hasError, address, port, isUdp, rawClientData, vlessResponse } = await processVlessHeader(vlessBuffer, request, env, log);
+        if (hasError) {
+          log('hasError');
+          await safeCloseWS(serverWebSocket);
+          return;
+        }
+        addressRemote = address;
+        portRemote = port;
+        if (isUdp) {
+          // UDP 处理（DNS over UDP 示例，简化）
+          log('UDP request, handling as DNS');
+          // 这里可集成 DoH，如使用 serverless-dns
+          serverWebSocket.send(vlessResponse);
+        } else {
+          // TCP 处理
+          await handleTCPInBound(remoteSocket, serverWebSocket, addressRemote, portRemote, log);
+        }
+      } catch (e) {
+        log('processVlessHeader error:', e);
+        await safeCloseWS(serverWebSocket);
+      }
+    } else {
+      // 后续数据转发
+      if (remoteSocket.value && remoteSocket.value.readyState === 'open') {
+        const writer = remoteSocket.value.writable.getWriter();
+        writer.write(data).catch(e => log('forward error:', e));
+      }
+    }
+  };
+
+  serverWebSocket.addEventListener('message', onWsMessage);
+}
+
+// VLESS 头部解析
+async function processVlessHeader(vlessBuffer, request, env, log) {
+  const version = vlessBuffer[0];
+  if (version !== 0) throw new Error('Not vless');
+
+  const userID = env.UUID || userID;
+  if (!isValidUUID(userID)) throw new Error('Invalid UUID');
+
+  if (vlessBuffer.slice(1, 37).toString() !== userID.replace(/-/g, '')) {
+    throw new Error('Invalid userID');
+  }
+
+  const metadataBuffer = vlessBuffer.slice(37);
+  const metadataView = new DataView(metadataBuffer.buffer);
+
+  let metadataIndex = 0;
+  const cmd = metadataView.getUint8(metadataIndex++);
+  const port = metadataView.getUint16(metadataIndex, true); metadataIndex += 2;
+
+  let addressLength = 0;
+  let address = '';
+  const atyp = metadataView.getUint8(metadataIndex++);
+  switch (atyp) {
+    case 1: // IPv4
+      address = `${metadataView.getUint8(metadataIndex + i) >> 0}.${metadataView.getUint8(metadataIndex + i + 1) >> 0}.${metadataView.getUint8(metadataIndex + i + 2) >> 0}.${metadataView.getUint8(metadataIndex + i + 3) >> 0}`;
+      metadataIndex += 4;
+      break;
+    case 2: // Domain
+      addressLength = metadataView.getUint16(metadataIndex, true);
+      metadataIndex += 2;
+      const tempBytes = new Uint8Array(metadataBuffer.slice(metadataIndex, metadataIndex + addressLength));
+      address = new TextDecoder().decode(tempBytes);
+      metadataIndex += addressLength;
+      break;
+    case 3: // IPv6 (简化，省略)
+      break;
+    default:
+      throw new Error('Invalid atyp');
+  }
+
+  // 使用 proxyIP 如果地址是 Cloudflare 相关
+  if (address.startsWith('cf.')) {
+    address = env.PROXYIP || proxyIP;
+  }
+
+  const rawClientData = vlessBuffer.slice(metadataIndex);
+  const isUdp = cmd === 2; // UDP 命令
+
+  log(`address: ${address}, port: ${port}, isUdp: ${isUdp}`);
+
+  const vlessResponse = vlessResponseHeader(false);
+  return { hasError: false, address, port, isUdp, rawClientData, vlessResponse };
+}
+
+export default {
+  async fetch(request, env, ctx) {
+    const log = (...args) => console.log('[vless]', ...args); // 简化日志
+
+    const userID = env.UUID || userID;
+    const proxyIP = env.PROXYIP || proxyIP;
+
+    if (!isValidUUID(userID)) {
+      return new Response('Invalid UUID config', { status: 500 });
+    }
+
+    const upgradeHeader = request.headers.get('Upgrade');
+    if (!upgradeHeader || upgradeHeader !== 'websocket') {
+      const url = new URL(request.url);
+      if (url.pathname === '/bestip/' + userID) {
+        // 订阅生成（Clash/VLESS 链接）
+        const subscribe = `vless://${userID}@${url.host}:443?encryption=none&security=tls&type=ws&host=${url.host}&path=/?ed=2048#VLESS-Worker`;
+        return new Response(subscribe, { headers: { 'Content-Type': 'text/plain' } });
+      }
+      return new Response('Not WebSocket', { status: 400 });
+    }
+
+    const webSocketPair = new WebSocketPair();
+    const [client, server] = Object.values(webSocketPair);
+
+    handleWebSocket(client, server, request, env, log).catch(e => {
+      log('handleWebSocket error:', e);
+      safeCloseWS(server);
+    });
+
+    return new Response(null, {
+      status: 101,
+      webSocket: client,
+    });
+  },
+};
